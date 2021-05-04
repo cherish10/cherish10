@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hongju%20&fontSize=90" />   
 - 👋 Hi, I’m hongju   
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+<img src="https://img.shields.io/badge/-Python-#A0BAED?style=flat&logo=python" />
 
 <!---
 cherish10/cherish10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
