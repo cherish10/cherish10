@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
       
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" />
